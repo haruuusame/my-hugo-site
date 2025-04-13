@@ -1,1 +1,13 @@
+#macOS Finder
 .DS_Store
+
+#hugo output directories
+/docs/
+/resources/_gen/
+
+#local config/cache files
+/assets/jsconfig.jsconfig
+hugo_stats.jsconfig
+
+#hugo build cache
+/.hugo_build.lock
