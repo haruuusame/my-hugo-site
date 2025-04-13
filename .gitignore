@@ -2,7 +2,7 @@
 .DS_Store
 
 #hugo output directories
-/docs/
+/public/
 /resources/_gen/
 
 #local config/cache files

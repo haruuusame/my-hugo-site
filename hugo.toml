@@ -2,7 +2,7 @@ baseURL = 'https://haruuusame.github.io/my-hugo-site'
 languageCode = 'ja-jp'
 title = 'ホームページ'
 theme = 'ananke'
-publishDir = 'docs'
+publishDir = 'public'
 
 [caches]
     [caches.images]
