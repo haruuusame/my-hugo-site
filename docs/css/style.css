@@ -1,0 +1,9 @@
+.info-box {
+    padding: 0.2em;
+    border-left: 5px solid #000000;
+    background-color: hsl(0, 0%, 73%);
+    color: #000000;
+    margin: 2em 0;
+    border-radius: 4px;
+  }
+  
