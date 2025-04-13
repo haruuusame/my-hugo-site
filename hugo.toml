@@ -3,3 +3,7 @@ languageCode = 'ja-jp'
 title = 'ホームページ'
 theme = 'ananke'
 publishDir = 'docs'
+
+[caches]
+    [caches.images]
+      dir = ":cacheDir/images"
